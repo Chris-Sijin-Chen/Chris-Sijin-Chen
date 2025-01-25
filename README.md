@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chris-Sijin-Chen
 - 👀 I’m interested in Python, R and Java.
-- 🌱 I’m currently learning Java for AP Computer Science A and R for data analysis.
 - 💞️ I’m looking to collaborate on data analysis.
 - 📫 How to reach me: email me at sijin_chen@icloud.com
 
